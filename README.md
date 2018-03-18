@@ -1,1 +1,1 @@
-学习github的命令而生
+Creating a new branch is quick.
